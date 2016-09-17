@@ -1,4 +1,4 @@
-# Tạo một cửa sổ giao diện đơn gian với PyQt4
+# Tạo một cửa sổ giao diện đơn giản với PyQt4
 
 Thực hiện: Thi Minh Nhựt - Email: thiminhnhut@gmail.com
 
