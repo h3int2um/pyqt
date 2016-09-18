@@ -4,6 +4,14 @@ Thực hiện: Thi Minh Nhựt - Email: thiminhnhut@gmail.com
 
 Thời gian: Ngày 17 tháng 9 năm 2016
 
+## Tài liệu tham khảo
+
+1. [PyQT Basic Tutorial](https://pythonprogramming.net/basic-gui-pyqt-tutorial/)
+
+2. [PyQT Application Structure](https://pythonprogramming.net/application-structure-pyqt-tutorial/)
+
+3. [First programs in PyQt4](http://zetcode.com/gui/pyqt4/firstprograms/)
+
 ## Tạo một cửa sổ giao diện đơn giản
 
 * Trong phần này, chúng ta sẽ tạo một cửa sổ đơn giản gồm:
