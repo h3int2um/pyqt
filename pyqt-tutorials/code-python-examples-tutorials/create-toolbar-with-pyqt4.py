@@ -40,7 +40,7 @@ class Window(QtGui.QMainWindow):
 		fileMenu.addAction(extractAction)				# Menu chinh gom menu con dinh nghia o extractAction
 		
 	def CreateToolbar(self):
-		extractAction = QtGui.QAction(QtGui.QIcon('quit.png'), 'Exit', self)	# Dat icon va tieu cho cho toolbar
+		extractAction = QtGui.QAction(QtGui.QIcon('quit.png'), 'Exit', self)	# Dat icon va tieu de bieu tuong tren toolbar
 		extractAction.triggered.connect(self.close_application)			# Thuc hien chuc nang trong ham close_application
         
 		self.toolBar = self.addToolBar("Extraction")				# Dinh nghia ten toolbar, click chuot phai de quan sat
