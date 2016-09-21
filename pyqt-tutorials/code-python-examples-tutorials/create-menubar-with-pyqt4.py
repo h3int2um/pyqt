@@ -1,6 +1,6 @@
 # Thuc hien: Thi Minh Nhut - Email: thiminhnhut@gmail.com
 # Thoi gian: 20-09-2016
-# Noi dung: Tao nut nhan voi PyQt4
+# Noi dung: Tao menubar voi PyQt4
 # Tham khao:
 #	1. https://pythonprogramming.net/menubar-pyqt-tutorial/
 #	2. http://zetcode.com/gui/pyqt4/firstprograms/
