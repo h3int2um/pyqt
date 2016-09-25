@@ -104,9 +104,7 @@ Thời gian: Ngày 24 tháng 9 năm 2016
 				checkBox.move(50, 10)
 				
 				checkBox.stateChanged.connect(self.close_gui)
-				
-				self.show()
-				
+								
 				
 			def CreateProgress(self):
 			
