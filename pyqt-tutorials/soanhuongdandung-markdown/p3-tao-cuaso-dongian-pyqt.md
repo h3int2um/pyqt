@@ -113,7 +113,7 @@ Thời gian: Ngày 17 tháng 9 năm 2016
 		tiêu đề và logo cho cửa sổ, hiển thị cửa sổ vừa tạo lên màn hình.
 		
 			- Lệnh `setGeometry(50, 50, 500, 300)`: Xác định vị trí và kích thước cửa sổ. 
-			Vị trí là `(x, y) = (50,50)` và kích thước là chiều rộng `width = 500px`, chiều cao `heigh = 300px`.
+			Vị trí là `(x, y) = (50,50)` và kích thước là chiều rộng `width = 500px`, chiều cao `height = 300px`.
 			
 			- Lệnh `setWindowTitle("PyQT tuts!")`: Đặt tiêu đề cho cửa sổ là `PyQT tuts!`.
 			
